@@ -1,0 +1,66 @@
+.iconfont {
+    margin-right: 8px;
+}
+
+.layui-icon {
+    margin-right: 8px;
+}
+
+.lf a {
+    margin-left: 20px;
+}
+
+.rg {
+    text-align: center;
+}
+
+.layui-footer {
+    text-align: center;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.layui-body {
+    overflow: hidden;
+}
+
+a {
+    transition: none !important;
+}
+
+.userinfo {
+    height: 60PX;
+    text-align: center;
+    line-height: 60px;
+    font-size: 12px;
+    user-select: none;
+}
+
+
+/*  user-select: none; 不能选择 */
+
+.layui-side-scroll .userinfo {
+    border-bottom: 1px solid #999999;
+}
+
+.layui-nav-img {
+    height: 40px;
+    width: 40px;
+}
+
+.text-avatar {
+    text-align: center;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #999999;
+    line-height: 40px;
+    margin-right: 10px;
+    position: relative;
+    top: 5px;
+    font-size: 20px;
+}
